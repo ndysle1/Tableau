@@ -1,0 +1,312 @@
+displayName,act-avg,sat-avg,enrollment,city,sortName,zip,acceptance-rate,rankingDisplayScore,percent-receiving-aid,cost-after-aid,state,rankingSortRank,ranking,xwalkId,rankingIsTied,isPublic,tuition,overallRank,institutionalControl,rankingRankStatus,primaryKey
+Princeton University,32,1400,5400,Princeton,princetonuniversity,8544,7,100,60,16793,NJ,1,overall,186131,FALSE,TRUE,47140,1,private,ranked,2627
+Harvard University,32,1430,6710,Cambridge,harvarduniversity,2138,5,98,55,16338,MA,2,overall,166027,FALSE,TRUE,48949,2,private,ranked,2155
+University of Chicago,32,1450,5941,Chicago,universityofchicago,60637,8,96,42,27767,IL,3,overall,144050,TRUE,TRUE,54825,3,private,ranked,1774
+Yale University,32,1420,5472,New Haven,yaleuniversity,6520,6,96,50,18385,CT,3,overall,130794,TRUE,TRUE,51400,3,private,ranked,1426
+Columbia University,32,1430,6113,New York,columbiauniversity,10027,6,95,48,21041,NY,5,overall,190150,TRUE,TRUE,57208,5,private,ranked,2707
+Massachusetts Institute of Technology,33,1460,4524,Cambridge,massachusettsinstituteoftechnology,2139,8,95,58,20331,MA,5,overall,166683,TRUE,TRUE,49892,5,private,ranked,2178
+Stanford University,31,1380,7034,Stanford,stanforduniversity,94305,5,95,47,19296,CA,5,overall,243744,TRUE,TRUE,49617,5,private,ranked,1305
+University of Pennsylvania,32,1380,10019,Philadelphia,universityofpennsylvania,19104,9,93,47,25441,PA,8,overall,215062,FALSE,TRUE,53534,8,private,ranked,3378
+Duke University,31,1380,6609,Durham,dukeuniversity,27708,11,92,41,23374,NC,9,overall,198419,FALSE,TRUE,53744,9,private,ranked,2920
+California Institute of Technology,34,1510,979,Pasadena,californiainstituteoftechnology,91125,8,91,51,23973,CA,10,overall,110404,FALSE,TRUE,49908,10,private,ranked,1131
+Dartmouth College,30,1350,4310,Hanover,dartmouthcollege,3755,11,90,50,23312,NH,11,overall,182670,TRUE,TRUE,52950,11,private,ranked,2573
+Johns Hopkins University,32,1420,6117,Baltimore,johnshopkinsuniversity,21218,12,90,45,30067,MD,11,overall,162928,TRUE,TRUE,52170,11,private,ranked,2077
+Northwestern University,32,1400,8353,Evanston,northwesternuniversity,60208,11,90,43,31087,IL,11,overall,147767,TRUE,TRUE,52678,11,private,ranked,1739
+Brown University,31,1370,6926,Providence,brownuniversity,2912,9,86,41,24482,RI,14,overall,217156,TRUE,TRUE,53419,14,private,ranked,3401
+Cornell University,31,1330,14566,Ithaca,cornelluniversity,14853,14,86,44,28068,NY,14,overall,190415,TRUE,TRUE,52853,14,private,ranked,2711
+Rice University,32,1410,3893,Houston,riceuniversity,77251,15,86,37,23996,TX,14,overall,227757,TRUE,TRUE,45608,14,private,ranked,3604
+Vanderbilt University,32,1420,6871,Nashville,vanderbiltuniversity,37240,11,86,46,23323,TN,14,overall,221999,TRUE,TRUE,47664,14,private,ranked,3535
+University of Notre Dame,32,1350,8530,Notre Dame,universityofnotredame,46556,19,85,47,29653,IN,18,overall,152080,TRUE,TRUE,51505,18,private,ranked,1840
+Washington University in St. Louis,32,1400,7540,St. Louis,washingtonuniversityinstlouis,63130,17,85,41,29245,MO,18,overall,179867,TRUE,TRUE,51533,18,private,ranked,2520
+Georgetown University,30,1320,7453,Washington,georgetownuniversity,20057,17,80,34,29667,DC,20,overall,131496,FALSE,TRUE,52300,20,private,ranked,1445
+Emory University,30,1290,6861,Atlanta,emoryuniversity,30322,25,78,42,24264,GA,21,overall,139658,TRUE,TRUE,49392,21,private,ranked,1564
+University of California--Berkeley,29,1300,29311,Berkeley,universityofcaliforniaberkeley,94720,16,78,23,49614,CA,21,overall,110635,TRUE,TRUE,42112,21,public,ranked,1312
+University of California--Los Angeles,25,1160,30873,Los Angeles,universityofcalifornialosangeles,90095,18,78,15,42896,CA,21,overall,110662,TRUE,TRUE,41270,21,public,ranked,1315
+University of Southern California,30,1280,18794,Los Angeles,universityofsoutherncalifornia,90089,17,78,33,33112,CA,21,overall,123961,TRUE,TRUE,54259,21,private,ranked,1328
+Carnegie Mellon University,31,1380,6673,Pittsburgh,carnegiemellonuniversity,15213,22,76,40,33550,PA,25,overall,211440,TRUE,TRUE,53910,25,private,ranked,3242
+University of Virginia,29,1240,16331,Charlottesville,universityofvirginia,22904,30,76,28,28079,VA,25,overall,234076,TRUE,TRUE,46975,25,public,ranked,6968
+Wake Forest University,28,1240,4955,Winston-Salem,wakeforestuniversity,27109,30,75,30,24241,NC,27,overall,199847,FALSE,TRUE,51400,27,private,ranked,2978
+University of Michigan--Ann Arbor,29,1310,28983,Ann Arbor,universityofmichiganannarbor,48109,29,74,25,32856,MI,28,overall,170976,FALSE,TRUE,47476,28,public,ranked,9092
+Tufts University,31,1370,5508,Medford,tuftsuniversity,2155,14,72,34,27034,MA,29,overall,168148,FALSE,TRUE,54318,29,private,ranked,2219
+New York University,29,1250,26135,New York,newyorkuniversity,10012,32,71,46,41783,NY,30,overall,193900,TRUE,TRUE,50464,30,private,ranked,2785
+University of North Carolina--Chapel Hill,27,1190,18523,Chapel Hill,universityofnorthcarolinachapelhill,27599,27,71,41,17815,NC,30,overall,199120,TRUE,TRUE,34588,30,public,ranked,2974
+Boston College,30,1260,9309,Chestnut Hill,bostoncollege,2467,31,70,35,30170,MA,32,overall,164924,TRUE,TRUE,53346,32,private,ranked,2128
+College of William and Mary,28,1250,6276,Williamsburg,collegeofwilliamandmary,23187,37,70,21,42153,VA,32,overall,231624,TRUE,TRUE,43099,32,public,ranked,3705
+Brandeis University,29,1270,3608,Waltham,brandeisuniversity,2454,33,68,47,29288,MA,34,overall,165015,TRUE,TRUE,53582,34,private,ranked,2133
+Georgia Institute of Technology,30,1320,15489,Atlanta,georgiainstituteoftechnology,30332,26,68,15,39518,GA,34,overall,139755,TRUE,TRUE,33014,34,public,ranked,1569
+University of Rochester,29,1250,6386,Rochester,universityofrochester,14627,38,68,51,28476,NY,34,overall,195030,TRUE,TRUE,52020,34,private,ranked,2894
+Boston University,28,1220,17944,Boston,bostonuniversity,2215,29,67,36,34539,MA,37,overall,164988,TRUE,TRUE,52082,37,private,ranked,2130
+Case Western Reserve University,30,1280,5152,Cleveland,casewesternreserveuniversity,44106,35,67,48,35248,OH,37,overall,201645,TRUE,TRUE,47500,37,private,ranked,3024
+University of California--Santa Barbara,25,1140,21574,Santa Barbara,universityofcaliforniasantabarbara,93106,36,67,8,44849,CA,37,overall,110705,TRUE,TRUE,42423,37,public,ranked,1320
+Northeastern University,31,1330,13473,Boston,northeasternuniversity,2115,29,66,34,38521,MA,40,overall,167358,TRUE,TRUE,49497,40,private,ranked,2199
+Tulane University,29,1250,6377,New Orleans,tulaneuniversity,70118,26,66,31,35111,LA,40,overall,160755,TRUE,TRUE,52960,40,private,ranked,2029
+Rensselaer Polytechnic Institute,28,1280,6265,Troy,rensselaerpolytechnicinstitute,12180,44,65,61,35125,NY,42,overall,194824,TRUE,TRUE,52305,42,private,ranked,2803
+University of California--Irvine,NA,1060,27331,Irvine,universityofcaliforniairvine,92697,41,65,6,43506,CA,42,overall,110653,TRUE,TRUE,43530,42,public,ranked,1314
+University of California--San Diego,25,1140,28127,La Jolla,universityofcaliforniasandiego,92093,36,65,7,42933,CA,42,overall,110680,TRUE,TRUE,44197,42,public,ranked,1317
+University of Florida,27,1180,34554,Gainesville,universityofflorida,32611,46,65,20,36825,FL,42,overall,134130,TRUE,TRUE,28658,42,public,ranked,1535
+Lehigh University,29,1230,5080,Bethlehem,lehighuniversity,18015,26,64,38,25376,PA,46,overall,213543,TRUE,TRUE,50740,46,private,ranked,3289
+Pepperdine University,26,1110,3542,Malibu,pepperdineuniversity,90263,37,64,51,32416,CA,46,overall,121150,TRUE,TRUE,51992,46,private,ranked,1264
+University of California--Davis,24,1050,29546,Davis,universityofcaliforniadavis,95616,42,64,9,44075,CA,46,overall,110644,TRUE,TRUE,42396,46,public,ranked,1313
+University of Miami,28,1210,10849,Coral Gables,universityofmiami,33124,38,64,33,34479,FL,46,overall,135726,TRUE,TRUE,48484,46,private,ranked,1536
+University of Wisconsin--Madison,27,1234,31710,Madison,universityofwisconsinmadison,53706,53,64,16,36113,WI,46,overall,240444,TRUE,TRUE,34782,46,public,ranked,3895
+Villanova University,30,1220,6999,Villanova,villanovauniversity,19085,44,64,44,35459,PA,46,overall,216597,TRUE,TRUE,51434,46,private,ranked,3388
+Pennsylvania State University--University Park,25,1090,41359,University Park,pennsylvaniastateuniversityuniversitypark,16802,56,63,14,41789,PA,52,overall,214777,TRUE,TRUE,33664,52,public,ranked,6965
+University of Illinois--Urbana-Champaign,26,1280,33932,Champaign,universityofillinoisurbanachampaign,61820,60,63,9,35977,IL,52,overall,145637,TRUE,TRUE,31988,52,public,ranked,1775
+Ohio State University--Columbus,27,1160,45831,Columbus,ohiostateuniversitycolumbus,43210,54,62,9,37032,OH,54,overall,204796,TRUE,TRUE,29659,54,public,ranked,6883
+University of Georgia,26,1140,27951,Athens,universityofgeorgia,30602,54,62,13,30943,GA,54,overall,139959,TRUE,TRUE,30392,54,public,ranked,1598
+George Washington University,27,1180,11504,Washington,georgewashingtonuniversity,20052,40,61,43,37996,DC,56,overall,131469,TRUE,TRUE,53518,56,private,ranked,1444
+Purdue University--West Lafayette,25,1080,30043,West Lafayette,purdueuniversitywestlafayette,47907,56,61,16,28383,IN,56,overall,243780,TRUE,TRUE,28804,56,public,ranked,1825
+University of Connecticut,26,1130,19324,Storrs,universityofconnecticut,6269,49,61,33,37427,CT,56,overall,129020,TRUE,TRUE,36948,56,public,ranked,29013
+University of Texas--Austin,26,1140,40168,Austin,universityoftexasaustin,78712,40,61,7,40558,TX,56,overall,228778,TRUE,TRUE,35766,56,public,ranked,3658
+University of Washington,26,1120,30933,Seattle,universityofwashington,98195,45,61,20,47746,WA,56,overall,236948,TRUE,TRUE,35538,56,public,ranked,3798
+Brigham Young University--Provo,27,1160,30979,Provo,brighamyounguniversityprovo,84602,51,60,38,13186,UT,61,overall,230038,TRUE,TRUE,5460,61,private,ranked,3670
+Fordham University,27,1170,9258,New York,fordhamuniversity,10023,45,60,NA,NA,NY,61,overall,191241,TRUE,TRUE,50601,61,private,ranked,2722
+Southern Methodist University,28,1220,6521,Dallas,southernmethodistuniversity,75275,49,60,24,47874,TX,61,overall,228246,TRUE,TRUE,52498,61,private,ranked,3613
+Syracuse University,25,1090,15218,Syracuse,syracuseuniversity,13244,52,60,48,33912,NY,61,overall,196413,TRUE,TRUE,46755,61,private,ranked,2882
+University of Maryland--College Park,28,1210,28472,College Park,universityofmarylandcollegepark,20742,48,60,20,36786,MD,61,overall,163286,TRUE,TRUE,33606,61,public,ranked,2103
+Worcester Polytechnic Institute,28,1200,4432,Worcester,worcesterpolytechnicinstitute,1609,48,60,62,39995,MA,61,overall,168421,TRUE,TRUE,48628,61,private,ranked,2233
+Clemson University,26,1150,18599,Clemson,clemsonuniversity,29634,51,59,7,38923,SC,67,overall,217882,FALSE,TRUE,35654,67,public,ranked,3425
+University of Pittsburgh,27,1190,19123,Pittsburgh,universityofpittsburgh,15260,55,58,NA,NA,PA,68,overall,215293,FALSE,TRUE,30642,68,public,ranked,3379
+American University,26,1150,7901,Washington,americanuniversity,20016,26,57,46,36076,DC,69,overall,131159,TRUE,TRUE,46615,69,private,ranked,1434
+Rutgers University--New Brunswick,NA,1110,36168,Piscataway,rutgersuniversitynewbrunswick,8854,57,57,13,40121,NJ,69,overall,186380,TRUE,TRUE,30023,69,public,ranked,6964
+Stevens Institute of Technology,29,1260,3021,Hoboken,stevensinstituteoftechnology,7030,39,57,40,51810,NJ,69,overall,186867,TRUE,TRUE,50554,69,private,ranked,2639
+Texas A&M University--College Station,24,1070,50735,College Station,texasamuniversitycollegestation,77843,66,57,41,26376,TX,69,overall,228723,TRUE,TRUE,30208,69,public,ranked,10366
+University of Minnesota--Twin Cities,26,1180,34871,Minneapolis,universityofminnesotatwincities,55455,44,57,23,28170,MN,69,overall,174066,TRUE,TRUE,26603,69,public,ranked,3969
+Virginia Tech,NA,1100,25791,Blacksburg,virginiatech,24061,71,57,NA,NA,VA,69,overall,233921,TRUE,TRUE,29371,69,public,ranked,3754
+Baylor University,26,1120,14348,Waco,bayloruniversity,76798,40,56,53,36761,TX,75,overall,223232,TRUE,TRUE,43790,75,private,ranked,6967
+Colorado School of Mines,29,1250,4612,Golden,coloradoschoolofmines,80401,40,56,21,47042,CO,75,overall,126775,TRUE,TRUE,37436,75,public,ranked,1348
+University of Massachusetts--Amherst,25,1130,23373,Amherst,universityofmassachusettsamherst,1003,60,56,35,35445,MA,75,overall,166629,TRUE,TRUE,33662,75,public,ranked,2221
+Miami University--Oxford,26,1130,16981,Oxford,miamiuniversityoxford,45056,65,55,10,42507,OH,78,overall,204024,TRUE,TRUE,32768,78,public,ranked,7104
+Texas Christian University,25,1070,8891,Fort Worth,texaschristianuniversity,76129,38,55,35,33953,TX,78,overall,228875,TRUE,TRUE,44760,78,private,ranked,3636
+University of Iowa,23,1020,24476,Iowa City,universityofiowa,52242,84,55,34,32794,IA,78,overall,153658,TRUE,TRUE,28813,78,public,ranked,1892
+Clark University,27,1110,2289,Worcester,clarkuniversity,1610,55,54,62,27702,MA,81,overall,165334,TRUE,TRUE,44400,81,private,ranked,2139
+Florida State University,25,1110,32929,Tallahassee,floridastateuniversity,32306,58,54,27,34036,FL,81,overall,134097,TRUE,TRUE,21673,81,public,ranked,1489
+Michigan State University,24,990,39090,East Lansing,michiganstateuniversity,48824,66,54,5,47279,MI,81,overall,171100,TRUE,TRUE,39405,81,public,ranked,2290
+North Carolina State University--Raleigh,27,1170,23847,Raleigh,northcarolinastateuniversityraleigh,27695,46,54,41,25623,NC,81,overall,199193,TRUE,TRUE,27406,81,public,ranked,2972
+University of California--Santa Cruz,23,1060,16962,Santa Cruz,universityofcaliforniasantacruz,95064,59,54,18,47616,CA,81,overall,110714,TRUE,TRUE,42042,81,public,ranked,1321
+University of Delaware,23,1090,18374,Newark,universityofdelaware,19716,65,54,NA,NA,DE,81,overall,130943,TRUE,TRUE,32250,81,public,ranked,1431
+Binghamton University--SUNY,28,1230,13632,Binghamton,binghamtonuniversitysuny,13902,41,53,54,29356,NY,87,overall,196079,TRUE,TRUE,24403,87,public,ranked,2836
+University of Denver,26,1110,5754,Denver,universityofdenver,80208,53,53,40,31393,CO,87,overall,127060,TRUE,TRUE,48669,87,private,ranked,1371
+University of Tulsa,26,1120,3406,Tulsa,universityoftulsa,74104,37,53,15,49957,OK,87,overall,207971,TRUE,TRUE,39502,87,private,ranked,3185
+Indiana University--Bloomington,24,1060,39184,Bloomington,indianauniversitybloomington,47405,79,52,16,37563,IN,90,overall,151351,TRUE,TRUE,34845,90,public,ranked,1809
+Marquette University,24,1040,8238,Milwaukee,marquetteuniversity,53201,74,52,55,32894,WI,90,overall,239105,TRUE,TRUE,39900,90,private,ranked,3863
+University of Colorado--Boulder,25,1070,27846,Boulder,universityofcoloradoboulder,80309,77,52,12,41125,CO,90,overall,126614,TRUE,TRUE,35079,90,public,ranked,1370
+University of San Diego,26,1100,5711,San Diego,universityofsandiego,92110,51,52,48,36861,CA,90,overall,122436,TRUE,TRUE,47708,90,private,ranked,10395
+Drexel University,25,1080,13251,Philadelphia,drexeluniversity,19104,75,51,54,42176,PA,94,overall,212054,TRUE,TRUE,52002,94,private,ranked,3256
+Saint Louis University,24,1120,7454,St. Louis,saintlouisuniversity,63103,65,51,51,28328,MO,94,overall,179159,TRUE,TRUE,42166,94,private,ranked,2506
+Yeshiva University,23,1090,2714,New York,yeshivauniversity,10033,51,51,46,34756,NY,94,overall,197708,TRUE,TRUE,42000,94,private,ranked,2903
+Rochester Institute of Technology,26,1140,12410,Rochester,rochesterinstituteoftechnology,14623,55,50,70,31793,NY,97,overall,195003,TRUE,TRUE,40068,97,private,ranked,2806
+Stony Brook University--SUNY,26,1150,17026,Stony Brook,stonybrookuniversitysuny,11794,41,50,13,34024,NY,97,overall,196097,TRUE,TRUE,26297,97,public,ranked,2838
+SUNY College of Environmental Science and Forestry,23,1070,1755,Syracuse,sunycollegeofenvironmentalscienceandforestry,13210,54,50,NA,NA,NY,97,overall,196103,TRUE,TRUE,18090,97,public,ranked,2851
+University at Buffalo--SUNY,24,1070,20411,Buffalo,universityatbuffalosuny,14214,59,50,28,37040,NY,97,overall,196088,TRUE,TRUE,26270,97,public,ranked,9554
+University of Oklahoma,23,1060,22436,Norman,universityofoklahoma,73019,71,50,13,35144,OK,97,overall,207500,TRUE,TRUE,24443,97,public,ranked,3184
+University of Vermont,25,1100,11159,Burlington,universityofvermont,5405,69,50,48,36399,VT,97,overall,231174,TRUE,TRUE,41356,97,public,ranked,3696
+Auburn University,24,1060,22658,Auburn,auburnuniversity,36849,81,49,16,39912,AL,103,overall,100858,TRUE,TRUE,29640,103,public,ranked,1009
+Illinois Institute of Technology,26,1130,2944,Chicago,illinoisinstituteoftechnology,60616,57,49,62,29116,IL,103,overall,145725,TRUE,TRUE,45864,103,private,ranked,1691
+Loyola University Chicago,24,1030,11129,Chicago,loyolauniversitychicago,60660,73,49,64,38093,IL,103,overall,146719,TRUE,TRUE,42828,103,private,ranked,1710
+University of New Hampshire,22,990,12871,Durham,universityofnewhampshire,3824,76,49,56,34826,NH,103,overall,183044,TRUE,TRUE,32637,103,public,ranked,2589
+University of Oregon,22,980,20049,Eugene,universityoforegon,97403,78,49,7,42682,OR,103,overall,209551,TRUE,TRUE,34611,103,public,ranked,3223
+University of South Carolina,25,1120,25556,Columbia,universityofsouthcarolina,29208,68,49,8,41810,SC,103,overall,218663,TRUE,TRUE,32362,103,public,ranked,3448
+University of Tennessee,24,1040,22139,Knoxville,universityoftennessee,37996,77,49,33,39170,TN,103,overall,221759,TRUE,TRUE,31160,103,public,ranked,3530
+Howard University,22,1040,5899,Washington,howarduniversity,20059,30,48,50,33124,DC,110,overall,131520,TRUE,TRUE,25697,110,private,ranked,1448
+University of Alabama,23,980,32563,Tuscaloosa,universityofalabama,35487,53,48,27,26861,AL,110,overall,100751,TRUE,TRUE,28100,110,public,ranked,1051
+University of San Francisco,23,1030,6745,San Francisco,universityofsanfrancisco,94117,71,48,46,42433,CA,110,overall,122612,TRUE,TRUE,46250,110,private,ranked,1325
+University of the Pacific,23,1030,3483,Stockton,universityofthepacific,95211,66,48,67,37188,CA,110,overall,120883,TRUE,TRUE,46346,110,private,ranked,1329
+University of Utah,21,1050,23789,Salt Lake City,universityofutah,84112,76,48,11,35873,UT,110,overall,230764,TRUE,TRUE,26408,110,public,ranked,3675
+Arizona State University--Tempe,22,1020,42477,Tempe,arizonastateuniversitytempe,85287,83,47,31,37446,AZ,115,overall,104151,TRUE,TRUE,27372,115,public,ranked,1081
+Iowa State University,22,980,30671,Ames,iowastateuniversity,50011,87,47,34,27241,IA,115,overall,153603,TRUE,TRUE,22256,115,public,ranked,1869
+Temple University,24,1050,29275,Philadelphia,templeuniversity,19122,52,47,37,35109,PA,115,overall,216339,TRUE,TRUE,27266,115,public,ranked,3371
+University of Kansas,23,NA,19262,Lawrence,universityofkansas,66045,93,47,30,30962,KS,115,overall,155317,TRUE,TRUE,26592,115,public,ranked,1948
+University of St. Thomas,24,1050,6111,St. Paul,universityofstthomas,55105,83,47,55,34299,MN,115,overall,174914,TRUE,TRUE,41133,115,private,ranked,2345
+The Catholic University of America,23,1040,3241,Washington,catholicuniversityofamerica,20064,80,46,54,35518,DC,120,overall,131283,TRUE,TRUE,44060,120,private,ranked,1437
+DePaul University,22,1030,15407,Chicago,depauluniversity,60604,70,46,59,42438,IL,120,overall,144740,TRUE,TRUE,39010,120,private,ranked,1671
+Duquesne University,24,1055,6039,Pittsburgh,duquesneuniversity,15282,74,46,65,29185,PA,120,overall,212106,TRUE,TRUE,36394,120,private,ranked,3258
+University of Missouri,23,1020,25898,Columbia,universityofmissouri,65211,75,46,33,27962,MO,120,overall,178396,TRUE,TRUE,26506,120,public,ranked,2516
+Clarkson University,24,1080,3268,Potsdam,clarksonuniversity,13699,68,45,79,33669,NY,124,overall,190044,TRUE,TRUE,47950,124,private,ranked,2699
+Colorado State University,22,1020,25177,Fort Collins,coloradostateuniversity,80523,78,45,16,39497,CO,124,overall,126818,TRUE,TRUE,29140,124,public,ranked,1350
+Michigan Technological University,25,1073,5829,Houghton,michigantechnologicaluniversity,49931,76,45,28,38217,MI,124,overall,171128,TRUE,TRUE,32318,124,public,ranked,2292
+Seton Hall University,23,1070,5956,South Orange,setonhalluniversity,7079,67,45,NA,NA,NJ,124,overall,186584,TRUE,TRUE,40588,124,private,ranked,2632
+University of Arizona,21,970,34072,Tucson,universityofarizona,85721,79,45,29,35051,AZ,124,overall,104179,TRUE,TRUE,32449,124,public,ranked,1083
+University of California--Riverside,21,940,19799,Riverside,universityofcaliforniariverside,92521,66,45,15,41753,CA,124,overall,110671,TRUE,TRUE,41931,124,public,ranked,1316
+University of Dayton,24,1030,8330,Dayton,universityofdayton,45469,60,45,46,34204,OH,124,overall,202480,TRUE,TRUE,41750,124,private,ranked,3127
+University of Nebraska--Lincoln,22,990,20833,Lincoln,universityofnebraskalincoln,68588,75,45,21,28968,NE,124,overall,181464,TRUE,TRUE,23256,124,public,ranked,2565
+Hofstra University,24,1070,6899,Hempstead,hofstrauniversity,11549,62,44,61,40205,NY,132,overall,191649,FALSE,TRUE,43960,132,private,ranked,2732
+Louisiana State University--Baton Rouge,23,1010,26118,Baton Rouge,louisianastateuniversitybatonrouge,70803,76,43,14,40711,LA,133,overall,159391,TRUE,TRUE,28051,133,public,ranked,2010
+Mercer University,25,1100,4706,Macon,merceruniversity,31207,69,43,67,26615,GA,133,overall,140447,TRUE,TRUE,36000,133,private,ranked,1580
+The New School,23,1030,7014,New York,newschool,10011,60,43,41,50853,NY,133,overall,193654,TRUE,TRUE,47330,133,private,ranked,20662
+Rutgers University--Newark,NA,910,8170,Newark,rutgersuniversitynewark,7102,65,43,26,38949,NJ,133,overall,186399,TRUE,TRUE,29480,133,public,ranked,2631
+University of Arkansas,23,1010,22548,Fayetteville,universityofarkansas,72701,63,43,16,33514,AR,133,overall,106397,TRUE,TRUE,24308,133,public,ranked,1108
+University of Cincinnati,23,1030,25860,Cincinnati,universityofcincinnati,45221,76,43,28,35124,OH,133,overall,201885,TRUE,TRUE,26334,133,public,ranked,3125
+University of Kentucky,22,980,22621,Lexington,universityofkentucky,40506,91,43,NA,NA,KY,133,overall,157085,TRUE,TRUE,28046,133,public,ranked,1989
+George Mason University,24,1060,23812,Fairfax,georgemasonuniversity,22030,81,42,39,38588,VA,140,overall,232186,TRUE,TRUE,34370,140,public,ranked,3749
+New Jersey Institute of Technology,23,1110,8211,Newark,newjerseyinstituteoftechnology,7102,59,42,35,18674,NJ,140,overall,185828,TRUE,TRUE,31034,140,public,ranked,2621
+San Diego State University,23,1000,29853,San Diego,sandiegostateuniversity,92182,35,42,32,31354,CA,140,overall,122409,TRUE,TRUE,19340,140,public,ranked,1151
+University of South Florida,24,1070,31461,Tampa,universityofsouthflorida,33620,47,42,25,23103,FL,140,overall,137351,TRUE,TRUE,17324,140,public,ranked,1537
+Washington State University,20,930,24904,Pullman,washingtonstateuniversity,99164,72,42,37,30666,WA,140,overall,236939,TRUE,TRUE,25817,140,public,ranked,3800
+Kansas State University,22,950,19472,Manhattan,kansasstateuniversity,66506,94,41,22,34621,KS,145,overall,155399,TRUE,TRUE,24775,145,public,ranked,1928
+Oregon State University,22,990,25327,Corvallis,oregonstateuniversity,97331,77,41,34,36636,OR,145,overall,209542,TRUE,TRUE,29457,145,public,ranked,3210
+St. John Fisher College,22,970,2786,Rochester,stjohnfishercollege,14618,65,41,81,28750,NY,145,overall,195720,TRUE,TRUE,33120,145,private,ranked,2821
+University of Illinois--Chicago,21,990,17959,Chicago,universityofillinoischicago,60607,74,41,31,39033,IL,145,overall,145600,TRUE,TRUE,27672,145,public,ranked,1776
+University of Mississippi,22,1000,19213,University,universityofmississippi,38677,78,41,24,27943,MS,145,overall,176017,TRUE,TRUE,23554,145,public,ranked,2440
+University of Texas--Dallas,25,1140,17350,Richardson,universityoftexasdallas,75080,68,41,28,37028,TX,145,overall,228787,TRUE,TRUE,33654,145,public,ranked,9741
+Adelphi University,22,1010,5205,Garden City,adelphiuniversity,11530,70,40,NA,NA,NY,151,overall,188429,TRUE,TRUE,37170,151,private,ranked,2666
+Florida Institute of Technology,24,1060,3629,Melbourne,floridainstituteoftechnology,32901,61,40,NA,NA,FL,151,overall,133881,TRUE,TRUE,41240,151,private,ranked,1469
+Ohio University,21,990,23788,Athens,ohiouniversity,45701,75,40,NA,NA,OH,151,overall,204857,TRUE,TRUE,21360,151,public,ranked,3100
+Seattle Pacific University,21,990,3095,Seattle,seattlepacificuniversity,98119,87,40,NA,NA,WA,151,overall,236577,TRUE,TRUE,40893,151,private,ranked,3788
+University at Albany--SUNY,22,1010,13139,Albany,universityatalbanysuny,12222,54,40,NA,NA,NY,151,overall,196060,TRUE,TRUE,24358,151,public,ranked,2835
+Oklahoma State University,21,970,21093,Stillwater,oklahomastateuniversity,74078,75,39,NA,NA,OK,156,overall,207388,TRUE,TRUE,23776,156,public,ranked,3170
+University of Massachusetts--Lowell,24,1070,13639,Lowell,universityofmassachusettslowell,1854,60,39,NA,NA,MA,156,overall,166513,TRUE,TRUE,31865,156,public,ranked,2161
+University of Rhode Island,22,990,14801,Kingston,universityofrhodeisland,2881,71,39,NA,NA,RI,156,overall,217484,TRUE,TRUE,28874,156,public,ranked,3414
+Biola University,21,950,4091,La Mirada,biolauniversity,90639,65,38,NA,NA,CA,159,overall,110097,TRUE,TRUE,38448,159,private,ranked,1122
+Illinois State University,21,NA,18643,Normal,illinoisstateuniversity,61790,89,38,NA,NA,IL,159,overall,145813,TRUE,TRUE,25168,159,public,ranked,1692
+University of Alabama--Birmingham,21,965,12369,Birmingham,universityofalabamabirmingham,35294,89,38,NA,NA,AL,159,overall,100663,TRUE,TRUE,23790,159,public,ranked,1052
+University of Hawaii--Manoa,21,970,13132,Honolulu,universityofhawaiimanoa,96822,80,38,NA,NA,HI,159,overall,141574,TRUE,TRUE,33764,159,public,ranked,1610
+University of La Verne,20,930,2809,La Verne,universityoflaverne,91750,48,38,NA,NA,CA,159,overall,117140,TRUE,TRUE,41450,159,private,ranked,1216
+University of Maryland--Baltimore County,24,1120,11142,Baltimore,universityofmarylandbaltimorecounty,21250,57,38,NA,NA,MD,159,overall,163268,TRUE,TRUE,25654,159,public,ranked,2105
+Immaculata University,18,860,1555,Immaculata,immaculatauniversity,19345,82,37,NA,NA,PA,165,overall,213011,TRUE,TRUE,27350,165,private,ranked,3276
+Maryville University of St. Louis,22,900,2967,St Louis,maryvilleuniversityofstlouis,63141,93,37,NA,NA,MO,165,overall,178059,TRUE,TRUE,28470,165,private,ranked,2482
+Missouri University of Science & Technology,25,1186,6909,Rolla,missouriuniversityofsciencetechnology,65409,79,37,NA,NA,MO,165,overall,178411,TRUE,TRUE,27701,165,public,ranked,2517
+St. John's University,22,970,16440,Queens,stjohnsuniversity,11439,63,37,NA,NA,NY,165,overall,195809,TRUE,TRUE,40790,165,private,ranked,2823
+University of California--Merced,18,860,6815,Merced,universityofcaliforniamerced,95343,74,37,NA,NA,CA,165,overall,445188,TRUE,TRUE,41612,165,public,ranked,4127
+University of Louisville,22,1000,15827,Louisville,universityoflouisville,40292,73,37,NA,NA,KY,165,overall,157289,TRUE,TRUE,26286,165,public,ranked,1999
+Mississippi State University,21,990,18090,Mississippi State,mississippistateuniversity,39762,71,36,NA,NA,MS,171,overall,176080,TRUE,TRUE,22358,171,public,ranked,2423
+Rowan University,NA,990,14344,Glassboro,rowanuniversity,8028,58,36,NA,NA,NJ,171,overall,184782,TRUE,TRUE,21378,171,public,ranked,2609
+University of Central Florida,24,1080,55776,Orlando,universityofcentralflorida,32816,50,36,NA,NA,FL,171,overall,132903,TRUE,TRUE,22467,171,public,ranked,3954
+University of Idaho,21,930,9586,Moscow,universityofidaho,83844,76,36,NA,NA,ID,171,overall,142285,TRUE,TRUE,23812,171,public,ranked,1626
+Virginia Commonwealth University,21,980,24212,Richmond,virginiacommonwealthuniversity,23284,75,36,NA,NA,VA,171,overall,234030,TRUE,TRUE,32942,171,public,ranked,3735
+Kent State University,21,950,23684,Kent,kentstateuniversity,44242,85,35,NA,NA,OH,176,overall,203517,TRUE,TRUE,18376,176,public,ranked,3051
+Robert Morris University,21,940,4384,Moon Township,robertmorrisuniversity,15108,80,35,NA,NA,PA,176,overall,215655,TRUE,TRUE,29420,176,private,ranked,3359
+Texas Tech University,22,1020,29963,Lubbock,texastechuniversity,79409,63,35,NA,NA,TX,176,overall,229115,TRUE,TRUE,23011,176,public,ranked,3644
+Union University,23,1020,2214,Jackson,unionuniversity,38305,63,35,NA,NA,TN,176,overall,221971,TRUE,TRUE,31580,176,private,ranked,3528
+University of Hartford,20,920,5150,West Hartford,universityofhartford,6117,72,35,NA,NA,CT,176,overall,129525,TRUE,TRUE,38910,176,private,ranked,1422
+Edgewood College,21,955,1661,Madison,edgewoodcollege,53711,78,34,NA,NA,WI,181,overall,238661,TRUE,TRUE,28500,181,private,ranked,3848
+Lesley University,21,960,1929,Cambridge,lesleyuniversity,2138,64,34,NA,NA,MA,181,overall,166452,TRUE,TRUE,26550,181,private,ranked,2160
+Lipscomb University,22,990,2986,Nashville,lipscombuniversity,37204,61,34,NA,NA,TN,181,overall,219976,TRUE,TRUE,30932,181,private,ranked,3486
+Suffolk University,20,910,5290,Boston,suffolkuniversity,2108,84,34,NA,NA,MA,181,overall,168005,TRUE,TRUE,37270,181,private,ranked,2218
+University of Maine,21,950,9323,Orono,universityofmaine,4469,90,34,NA,NA,ME,181,overall,161253,TRUE,TRUE,30282,181,public,ranked,2053
+University of Wyoming,21,960,9788,Laramie,universityofwyoming,82071,95,34,NA,NA,WY,181,overall,240727,TRUE,TRUE,16827,181,public,ranked,3932
+Azusa Pacific University,21,930,5770,Azusa,azusapacificuniversity,91702,84,33,NA,NA,CA,187,overall,109785,TRUE,TRUE,36120,187,private,ranked,1117
+Ball State University,20,990,17011,Muncie,ballstateuniversity,47306,62,33,NA,NA,IN,187,overall,150136,TRUE,TRUE,25938,187,public,ranked,1786
+Montclair State University,15,870,16810,Montclair,montclairstateuniversity,7043,66,33,NA,NA,NJ,187,overall,185590,TRUE,TRUE,20566,187,public,ranked,2617
+Pace University,21,940,8914,New York,paceuniversity,10038,84,33,NA,NA,NY,187,overall,194310,TRUE,TRUE,44036,187,private,ranked,2791
+West Virginia University,21,930,22350,Morgantown,westvirginiauniversity,26506,76,33,NA,NA,WV,187,overall,238032,TRUE,TRUE,23616,187,public,ranked,3827
+Andrews University,21,930,1688,Berrien Springs,andrewsuniversity,49104,40,32,NA,NA,MI,192,overall,168740,TRUE,TRUE,28436,192,private,ranked,2238
+Indiana University-Purdue University--Indianapolis,19,890,21748,Indianapolis,indianauniversitypurdueuniversityindianapolis,46202,74,32,NA,NA,IN,192,overall,151111,TRUE,TRUE,29806,192,public,ranked,1813
+University of Houston,23,1040,35871,Houston,universityofhouston,77204,59,32,NA,NA,TX,192,overall,225511,TRUE,TRUE,27337,192,public,ranked,3652
+University of New Mexico,19,950,20215,Albuquerque,universityofnewmexico,87131,47,32,NA,NA,NM,192,overall,187985,TRUE,TRUE,22412,192,public,ranked,10313
+University of North Dakota,21,960,11255,Grand Forks,universityofnorthdakota,58202,84,32,NA,NA,ND,192,overall,200280,TRUE,TRUE,21462,192,public,ranked,3005
+Widener University,21,930,3591,Chester,wideneruniversity,19013,70,32,NA,NA,PA,192,overall,216852,TRUE,TRUE,44166,192,private,ranked,3313
+New Mexico State University,18,820,12027,Las Cruces,newmexicostateuniversity,88003,60,31,NA,NA,NM,198,overall,188030,TRUE,TRUE,22701,198,public,ranked,2657
+North Dakota State University,21,1000,12010,Fargo,northdakotastateuniversity,58108,93,31,NA,NA,ND,198,overall,200332,TRUE,TRUE,20571,198,public,ranked,9265
+Nova Southeastern University,22,1000,4295,Ft. Lauderdale,novasoutheasternuniversity,33314,53,31,NA,NA,FL,198,overall,136215,TRUE,TRUE,29940,198,private,ranked,1509
+University of North Carolina--Charlotte,22,1030,23404,Charlotte,universityofnorthcarolinacharlotte,28223,62,31,NA,NA,NC,198,overall,199139,TRUE,TRUE,20268,198,public,ranked,2975
+Bowling Green State University,20,920,14852,Bowling Green,bowlinggreenstateuniversity,43403,75,30,NA,NA,OH,202,overall,201441,TRUE,TRUE,18593,202,public,ranked,3018
+California State University--Fullerton,19,920,34576,Fullerton,californiastateuniversityfullerton,92831,48,30,NA,NA,CA,202,overall,110565,TRUE,TRUE,17460,202,public,ranked,1137
+Dallas Baptist University,19,1030,3223,Dallas,dallasbaptistuniversity,75211,43,30,NA,NA,TX,202,overall,224226,TRUE,TRUE,27480,202,private,ranked,3560
+University of Massachusetts--Boston,21,960,12847,Boston,universityofmassachusettsboston,2125,69,30,NA,NA,MA,202,overall,166638,TRUE,TRUE,32985,202,public,ranked,2222
+University of Nevada--Reno,21,970,18191,Reno,universityofnevadareno,89557,83,30,NA,NA,NV,202,overall,182290,TRUE,TRUE,21787,202,public,ranked,2568
+Central Michigan University,20,890,19923,Mount Pleasant,centralmichiganuniversity,48859,72,29,NA,NA,MI,207,overall,169248,TRUE,TRUE,23670,207,public,ranked,2243
+East Carolina University,20,970,22969,Greenville,eastcarolinauniversity,27858,70,29,NA,NA,NC,207,overall,198464,TRUE,TRUE,23420,207,public,ranked,2923
+Florida A&M University,19,900,7769,Tallahassee,floridaamuniversity,32307,31,29,NA,NA,FL,207,overall,133650,TRUE,TRUE,17725,207,public,ranked,1480
+Montana State University,21,1010,14400,Bozeman,montanastateuniversity,59717,83,29,NA,NA,MT,207,overall,180461,TRUE,TRUE,23042,207,public,ranked,2532
+University of Alaska--Fairbanks,19,950,7239,Fairbanks,universityofalaskafairbanks,99775,73,29,NA,NA,AK,207,overall,102614,TRUE,TRUE,23534,207,public,ranked,1063
+University of Colorado--Denver,21,960,14622,Denver,universityofcoloradodenver,80217,61,29,NA,NA,CO,207,overall,126562,TRUE,TRUE,31209,207,public,ranked,6740
+University of Massachusetts--Dartmouth,20,910,6999,North Dartmouth,universityofmassachusettsdartmouth,2747,76,29,NA,NA,MA,207,overall,167987,TRUE,TRUE,28285,207,public,ranked,2210
+University of Montana,20,950,10077,Missoula,universityofmontana,59812,92,29,NA,NA,MT,207,overall,180489,TRUE,TRUE,24943,207,public,ranked,2536
+Western Michigan University,19,NA,18313,Kalamazoo,westernmichiganuniversity,49008,82,29,NA,NA,MI,207,overall,172699,TRUE,TRUE,14699,207,public,ranked,2330
+Florida International University,23,1030,45813,Miami,floridainternationaluniversity,33199,49,28,NA,NA,FL,216,overall,133951,TRUE,TRUE,18956,216,public,ranked,9635
+Louisiana Tech University,21,980,11281,Ruston,louisianatechuniversity,71272,63,28,NA,NA,LA,216,overall,159647,TRUE,TRUE,18438,216,public,ranked,2008
+South Dakota State University,20,890,10959,Brookings,southdakotastateuniversity,57007,91,28,NA,NA,SD,216,overall,219356,TRUE,TRUE,11403,216,public,ranked,3471
+Southern Illinois University--Carbondale,19,880,12182,Carbondale,southernillinoisuniversitycarbondale,62901,77,28,NA,NA,IL,216,overall,149222,TRUE,TRUE,13936,216,public,ranked,1758
+University of Alabama--Huntsville,25,1060,6507,Huntsville,universityofalabamahuntsville,35899,76,28,NA,NA,AL,216,overall,100706,TRUE,TRUE,21480,216,public,ranked,1055
+University of Missouri--Kansas City,21,980,11708,Kansas City,universityofmissourikansascity,64110,62,28,NA,NA,MO,216,overall,178402,TRUE,TRUE,25999,216,public,ranked,2518
+Utah State University,20,980,24838,Logan,utahstateuniversity,84322,90,28,NA,NA,UT,216,overall,230728,TRUE,TRUE,20726,216,public,ranked,3677
+Ashland University,20,950,4536,Ashland,ashlanduniversity,44805,72,27,NA,NA,OH,223,overall,201104,TRUE,TRUE,20700,223,private,ranked,3012
+Benedictine University,20,NA,3171,Lisle,benedictineuniversity,60532,73,27,NA,NA,IL,223,overall,145619,TRUE,TRUE,33900,223,private,ranked,1767
+California State University--Fresno,16,800,21528,Fresno,californiastateuniversityfresno,93740,54,27,NA,NA,CA,223,overall,110556,TRUE,TRUE,17929,223,public,ranked,1147
+Gardner-Webb University,18,870,2362,Boiling Springs,gardnerwebbuniversity,28017,52,27,NA,NA,NC,223,overall,198561,TRUE,TRUE,30740,223,private,ranked,2929
+Georgia State University,20,950,25455,Atlanta,georgiastateuniversity,30302,53,27,NA,NA,GA,223,overall,139940,TRUE,TRUE,29432,223,public,ranked,1574
+Shenandoah University,19,880,2099,Winchester,shenandoahuniversity,22601,88,27,NA,NA,VA,223,overall,233541,TRUE,TRUE,31920,223,private,ranked,3737
+University of South Dakota,19,830,7500,Vermillion,universityofsouthdakota,57069,88,27,NA,NA,SD,223,overall,219471,TRUE,TRUE,11688,223,public,ranked,10300
+Wayne State University,20,983,17280,Detroit,waynestateuniversity,48202,68,27,NA,NA,MI,223,overall,172644,TRUE,TRUE,28590,223,public,ranked,2329
+American International College,16,790,1424,Springfield,americaninternationalcollege,1109,64,NA,NA,NA,MA,-1,overall,164447,FALSE,TRUE,33140,-1,private,rnp,2114
+Augusta University,NA,930,5133,Augusta,augustauniversity,30912,74,NA,NA,NA,GA,-1,overall,482149,FALSE,TRUE,23606,-1,public,rnp,1579
+Barry University,18,850,3541,Miami Shores,barryuniversity,33161,62,NA,NA,NA,FL,-1,overall,132471,FALSE,TRUE,29700,-1,private,rnp,1466
+Boise State University,20,910,20209,Boise,boisestateuniversity,83725,82,NA,NA,NA,ID,-1,overall,142115,FALSE,TRUE,22642,-1,public,rnp,1616
+Cardinal Stritch University,18,973,1534,Milwaukee,cardinalstritchuniversity,53217,82,NA,NA,NA,WI,-1,overall,238430,FALSE,TRUE,28844,-1,private,rnp,3837
+Clark Atlanta University,18,820,3093,Atlanta,clarkatlantauniversity,30314,72,NA,NA,NA,GA,-1,overall,138947,FALSE,TRUE,23082,-1,private,rnp,1551
+Cleveland State University,19,890,12433,Cleveland,clevelandstateuniversity,44115,88,NA,NA,NA,OH,-1,overall,202134,FALSE,TRUE,13848,-1,public,rnp,3032
+Eastern Michigan University,19,910,17541,Ypsilanti,easternmichiganuniversity,48197,73,NA,NA,NA,MI,-1,overall,169798,FALSE,TRUE,11530,-1,public,rnp,2259
+East Tennessee State University,20,920,11065,Johnson City,easttennesseestateuniversity,37614,80,NA,NA,NA,TN,-1,overall,220075,FALSE,TRUE,26463,-1,public,rnp,3487
+Florida Atlantic University,20,950,25402,Boca Raton,floridaatlanticuniversity,33431,60,NA,NA,NA,FL,-1,overall,133669,FALSE,TRUE,21595,-1,public,rnp,1481
+Georgia Southern University,22,1030,18005,Statesboro,georgiasouthernuniversity,30460,65,NA,NA,NA,GA,-1,overall,139931,FALSE,TRUE,18692,-1,public,rnp,1572
+Grand Canyon University,NA,NA,NA,Phoenix,grandcanyonuniversity,85017,43,NA,NA,NA,AZ,-1,overall,104717,FALSE,TRUE,17050,-1,proprietary,rnp,1074
+Indiana State University,16,790,11202,Terre Haute,indianastateuniversity,47809,86,NA,NA,NA,IN,-1,overall,151324,FALSE,TRUE,19454,-1,public,rnp,9563
+Indiana University of Pennsylvania,NA,840,10618,Indiana,indianauniversityofpennsylvania,15705,92,NA,NA,NA,PA,-1,overall,213020,FALSE,TRUE,15882,-1,public,rnp,3277
+Jackson State University,16,810,7492,Jackson,jacksonstateuniversity,39217,69,NA,NA,NA,MS,-1,overall,175856,FALSE,TRUE,17614,-1,public,rnp,2410
+Kennesaw State University,21,1000,32166,Kennesaw,kennesawstateuniversity,30144,59,NA,NA,NA,GA,-1,overall,140164,FALSE,TRUE,21158,-1,public,rnp,1577
+Lamar University,18,860,9326,Beaumont,lamaruniversity,77710,76,NA,NA,NA,TX,-1,overall,226091,FALSE,TRUE,22561,-1,public,rnp,3581
+Liberty University,21,950,47050,Lynchburg,libertyuniversity,24502,28,NA,NA,NA,VA,-1,overall,232557,FALSE,TRUE,24304,-1,private,rnp,10392
+Lindenwood University,20,920,7549,St. Charles,lindenwooduniversity,63301,55,NA,NA,NA,MO,-1,overall,177968,FALSE,TRUE,16960,-1,private,rnp,2480
+Middle Tennessee State University,19,950,19693,Murfreesboro,middletennesseestateuniversity,37132,69,NA,NA,NA,TN,-1,overall,220978,FALSE,TRUE,27578,-1,public,rnp,3510
+Morgan State University,16,800,6362,Baltimore,morganstateuniversity,21251,60,NA,NA,NA,MD,-1,overall,163453,FALSE,TRUE,17833,-1,public,rnp,2083
+National Louis University,NA,NA,NA,Chicago,nationallouisuniversity,60603,81,NA,NA,NA,IL,-1,overall,147536,FALSE,TRUE,10380,-1,private,rnp,1733
+North Carolina A&T State University,18,850,9668,Greensboro,northcarolinaatstateuniversity,27411,54,NA,NA,NA,NC,-1,overall,199102,FALSE,TRUE,19416,-1,public,rnp,2905
+Northern Arizona University,20,940,26506,Flagstaff,northernarizonauniversity,86011,78,NA,NA,NA,AZ,-1,overall,105330,FALSE,TRUE,24841,-1,public,rnp,1082
+Northern Illinois University,19,NA,14079,DeKalb,northernillinoisuniversity,60115,52,NA,NA,NA,IL,-1,overall,147703,FALSE,TRUE,23817,-1,public,rnp,1737
+Oakland University,20,805,16568,Rochester,oaklanduniversity,48309,86,NA,NA,NA,MI,-1,overall,171571,FALSE,TRUE,24735,-1,public,rnp,2307
+Old Dominion University,18,890,19793,Norfolk,olddominionuniversity,23529,85,NA,NA,NA,VA,-1,overall,232982,FALSE,TRUE,28200,-1,public,rnp,3728
+Portland State University,19,930,21633,Portland,portlandstateuniversity,97207,89,NA,NA,NA,OR,-1,overall,209807,FALSE,TRUE,21180,-1,public,rnp,3216
+Prairie View A&M University,15,750,7455,Prairie View,prairieviewamuniversity,77446,85,NA,NA,NA,TX,-1,overall,227526,FALSE,TRUE,10059,-1,public,rnp,3630
+Regent University,19,920,3806,Virginia Beach,regentuniversity,23464,83,NA,NA,NA,VA,-1,overall,231651,FALSE,TRUE,17450,-1,private,rnp,30913
+Sam Houston State University,19,870,17902,Huntsville,samhoustonstateuniversity,77340,72,NA,NA,NA,TX,-1,overall,227881,FALSE,TRUE,22340,-1,public,rnp,3606
+San Francisco State University,18,860,25945,San Francisco,sanfranciscostateuniversity,94132,68,NA,NA,NA,CA,-1,overall,122597,FALSE,TRUE,19134,-1,public,rnp,1154
+Spalding University,18,NA,NA,Louisville,spaldinguniversity,40203,50,NA,NA,NA,KY,-1,overall,157757,FALSE,TRUE,24388,-1,private,rnp,1960
+Tennessee State University,16,788,7007,Nashville,tennesseestateuniversity,37209,53,NA,NA,NA,TN,-1,overall,221838,FALSE,TRUE,20178,-1,public,rnp,3522
+Tennessee Technological University,21,960,9437,Cookeville,tennesseetechnologicaluniversity,38505,67,NA,NA,NA,TN,-1,overall,221847,FALSE,TRUE,26190,-1,public,rnp,3523
+Texas A&M University--Commerce,17,850,7605,Commerce,texasamuniversitycommerce,75429,45,NA,NA,NA,TX,-1,overall,224554,FALSE,TRUE,20884,-1,public,rnp,3565
+Texas A&M University--Corpus Christi,17,850,10212,Corpus Christi,texasamuniversitycorpuschristi,78412,86,NA,NA,NA,TX,-1,overall,224147,FALSE,TRUE,26061,-1,public,rnp,11161
+Texas A&M University--Kingsville,17,850,6811,Kingsville,texasamuniversitykingsville,78363,82,NA,NA,NA,TX,-1,overall,228705,FALSE,TRUE,20912,-1,public,rnp,3639
+Texas Southern University,15,715,6562,Houston,texassouthernuniversity,77004,51,NA,NA,NA,TX,-1,overall,229063,FALSE,TRUE,21240,-1,public,rnp,3642
+Texas State University,20,930,34244,San Marcos,texasstateuniversity,78666,71,NA,NA,NA,TX,-1,overall,228459,FALSE,TRUE,23071,-1,public,rnp,3615
+Texas Woman's University,17,820,10408,Denton,texaswomansuniversity,76204,86,NA,NA,NA,TX,-1,overall,229179,FALSE,TRUE,21816,-1,public,rnp,3646
+Trevecca Nazarene University,19,930,2092,Nashville,treveccanazareneuniversity,37210,72,NA,NA,NA,TN,-1,overall,221892,FALSE,TRUE,25100,-1,private,rnp,3526
+Trinity International University,19,880,1076,Deerfield,trinityinternationaluniversity,60015,88,NA,NA,NA,IL,-1,overall,149514,FALSE,TRUE,30750,-1,private,rnp,1772
+University of Akron,19,910,17416,Akron,universityofakron,44325,96,NA,NA,NA,OH,-1,overall,200800,FALSE,TRUE,21863,-1,public,rnp,3123
+University of Arkansas--Little Rock,19,930,9374,Little Rock,universityofarkansaslittlerock,72204,77,NA,NA,NA,AR,-1,overall,106245,FALSE,TRUE,19797,-1,public,rnp,1101
+University of Louisiana--Lafayette,21,940,15998,Lafayette,universityoflouisianalafayette,70504,52,NA,NA,NA,LA,-1,overall,160658,FALSE,TRUE,23074,-1,public,rnp,2031
+University of Louisiana--Monroe,19,920,7778,Monroe,universityoflouisianamonroe,71209,86,NA,NA,NA,LA,-1,overall,159993,FALSE,TRUE,20381,-1,public,rnp,2020
+University of Maryland--Eastern Shore,17,790,3278,Princess Anne,universityofmarylandeasternshore,21853,38,NA,NA,NA,MD,-1,overall,163338,FALSE,TRUE,18048,-1,public,rnp,2106
+University of Memphis,19,890,17176,Memphis,universityofmemphis,38152,94,NA,NA,NA,TN,-1,overall,220862,FALSE,TRUE,21413,-1,public,rnp,3509
+University of Missouri--St. Louis,21,940,13923,St. Louis,universityofmissouristlouis,63121,71,NA,NA,NA,MO,-1,overall,178420,FALSE,TRUE,27327,-1,public,rnp,2519
+University of Nebraska--Omaha,19,930,12536,Omaha,universityofnebraskaomaha,68182,86,NA,NA,NA,NE,-1,overall,181394,FALSE,TRUE,22035,-1,public,rnp,2554
+University of Nevada--Las Vegas,19,900,24714,Las Vegas,universityofnevadalasvegas,89154,83,NA,NA,NA,NV,-1,overall,182281,FALSE,TRUE,21498,-1,public,rnp,2569
+University of New Orleans,20,950,6442,New Orleans,universityofneworleans,70148,60,NA,NA,NA,LA,-1,overall,159939,FALSE,TRUE,13530,-1,public,rnp,2015
+University of North Carolina--Greensboro,21,910,16281,Greensboro,universityofnorthcarolinagreensboro,27402,74,NA,NA,NA,NC,-1,overall,199148,FALSE,TRUE,22410,-1,public,rnp,2976
+University of Northern Colorado,19,930,9503,Greeley,universityofnortherncolorado,80639,90,NA,NA,NA,CO,-1,overall,127741,FALSE,TRUE,20474,-1,public,rnp,1349
+University of North Texas,20,980,31209,Denton,universityofnorthtexas,76203,72,NA,NA,NA,TX,-1,overall,227216,FALSE,TRUE,23716,-1,public,rnp,3594
+University of South Alabama,20,875,11761,Mobile,universityofsouthalabama,36688,80,NA,NA,NA,AL,-1,overall,102094,FALSE,TRUE,19586,-1,public,rnp,1057
+University of Southern Mississippi,20,940,11779,Hattiesburg,universityofsouthernmississippi,39406,60,NA,NA,NA,MS,-1,overall,176372,FALSE,TRUE,9854,-1,public,rnp,2441
+University of Texas--Arlington,20,950,32775,Arlington,universityoftexasarlington,76019,70,NA,NA,NA,TX,-1,overall,228769,FALSE,TRUE,25152,-1,public,rnp,3656
+University of Texas--El Paso,17,810,20521,El Paso,universityoftexaselpaso,79968,100,NA,NA,NA,TX,-1,overall,228796,FALSE,TRUE,21396,-1,public,rnp,3661
+University of Texas--Rio Grande Valley,18,850,24433,Edinburg,universityoftexasriograndevalley,78539,63,NA,NA,NA,TX,-1,overall,227368,FALSE,TRUE,17230,-1,public,rnp,666978
+University of Texas--San Antonio,20,920,24724,San Antonio,universityoftexassanantonio,78249,76,NA,NA,NA,TX,-1,overall,229027,FALSE,TRUE,23379,-1,public,rnp,10115
+University of the Cumberlands,19,860,3082,Williamsburg,universityofthecumberlands,40769,71,NA,NA,NA,KY,-1,overall,156541,FALSE,TRUE,23000,-1,private,rnp,1962
+University of Toledo,20,920,16247,Toledo,universityoftoledo,43606,94,NA,NA,NA,OH,-1,overall,206084,FALSE,TRUE,18578,-1,public,rnp,3131
+University of West Florida,21,930,10082,Pensacola,universityofwestflorida,32514,41,NA,NA,NA,FL,-1,overall,138354,FALSE,TRUE,18628,-1,public,rnp,3955
+University of West Georgia,18,870,11155,Carrollton,universityofwestgeorgia,30118,59,NA,NA,NA,GA,-1,overall,141334,FALSE,TRUE,20406,-1,public,rnp,1601
+University of Wisconsin--Milwaukee,20,NA,21375,Milwaukee,universityofwisconsinmilwaukee,53201,72,NA,NA,NA,WI,-1,overall,240453,FALSE,TRUE,19851,-1,public,rnp,3896
+Valdosta State University,19,890,8780,Valdosta,valdostastateuniversity,31698,65,NA,NA,NA,GA,-1,overall,141264,FALSE,TRUE,17196,-1,public,rnp,1599
+Wichita State University,21,915,11823,Wichita,wichitastateuniversity,67260,92,NA,NA,NA,KS,-1,overall,156125,FALSE,TRUE,17270,-1,public,rnp,1950
+Wright State University,18,930,12504,Dayton,wrightstateuniversity,45435,95,NA,NA,NA,OH,-1,overall,206604,FALSE,TRUE,17350,-1,public,rnp,9168
+Alliant International University,NA,NA,1264,San Diego,alliantinternationaluniversity,92131,NA,NA,NA,NA,CA,-2,overall,110468,FALSE,TRUE,17510,-2,private,ur,1158
+Argosy University,NA,NA,NA,Orange,argosyuniversity,92868,NA,NA,NA,NA,CA,-2,overall,145770,FALSE,TRUE,13152,-2,proprietary,ur,21799
+California Institute of Integral Studies,NA,NA,NA,San Francisco,californiainstituteofintegralstudies,94103,NA,NA,NA,NA,CA,-2,overall,110316,FALSE,TRUE,28467,-2,private,ur,12154
+Capella University,NA,NA,NA,Minneapolis,capellauniversity,55403,NA,NA,NA,NA,MN,-2,overall,413413,FALSE,TRUE,13998,-2,proprietary,ur,32673
+Idaho State University,NA,NA,NA,Pocatello,idahostateuniversity,83209,NA,NA,NA,NA,ID,-2,overall,142276,FALSE,TRUE,21023,-2,public,ur,1620
+Northcentral University,NA,NA,133,San Diego,northcentraluniversity,86314,NA,NA,NA,NA,AZ,-2,overall,444130,FALSE,TRUE,10368,-2,proprietary,ur,666122
+Trident University International,NA,NA,NA,Cypress,tridentuniversityinternational,90630,96,NA,NA,NA,CA,-2,overall,450979,FALSE,TRUE,9000,-2,proprietary,ur,41279
+Union Institute and University,NA,NA,NA,Cincinnati,unioninstituteanduniversity,45206,NA,NA,NA,NA,OH,-2,overall,206279,FALSE,TRUE,12416,-2,private,ur,10923
+University of Phoenix,NA,NA,NA,Phoenix,universityofphoenix,85034,NA,NA,NA,NA,AZ,-2,overall,372213,FALSE,TRUE,9690,-2,proprietary,ur,209885
+Walden University,NA,NA,NA,Minneapolis,waldenuniversity,55401,NA,NA,NA,NA,MN,-2,overall,125231,FALSE,TRUE,12075,-2,proprietary,ur,25042
+Wilmington University,NA,NA,8873,New Castle,wilmingtonuniversity,19720,100,NA,NA,NA,DE,-2,overall,131113,FALSE,TRUE,10940,-2,private,ur,7948
