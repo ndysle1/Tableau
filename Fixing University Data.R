@@ -13,10 +13,9 @@ json_data_frame <- as.data.frame(data)
 
 is.data.frame(data)
 
-?as.data.frame
-print(data)
+head(data)
 
-apply(is.na(data), 1, sum) 
+apply(is.na(data), 2, sum) 
 
 write.csv(data, "C:/Users/User/Desktop/Software Cheats/R/University_data.csv", row.names=TRUE)
 
