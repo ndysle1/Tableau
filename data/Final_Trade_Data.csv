@@ -1,0 +1,444 @@
+Year,Crop,Country,Value
+2015,Soybeans,China,27282460.6
+2015,Soybeans,European Union-28,4919638.7
+2015,Soybeans,Mexico,3566025
+2015,Soybeans,Japan,2395566
+2015,Soybeans,Indonesia,1902054.1
+2015,Soybeans,Taiwan,1348104.7
+2015,Soybeans,Bangladesh,768685
+2015,Soybeans,Vietnam,658407.2
+2015,Soybeans,Thailand,566691.9
+2015,Soybeans,Colombia,517011.3
+2015,Wheat (Unmilled),Japan,2767027
+2015,Wheat (Unmilled),Mexico,2604773
+2015,Wheat (Unmilled),Philippines,2048492
+2015,Wheat (Unmilled),Nigeria,1859511
+2015,Wheat (Unmilled),South Korea,1105666
+2015,Wheat (Unmilled),Taiwan,1048859
+2015,Wheat (Unmilled),European Union-28,916020
+2015,Wheat (Unmilled),Thailand,750503
+2015,Wheat (Unmilled),Colombia,683290
+2015,Wheat (Unmilled),China,548274
+2015,Corn,Mexico,11813226
+2015,Corn,Japan,11132757
+2015,Corn,Colombia,4354942
+2015,Corn,South Korea,3460012
+2015,Corn,Taiwan,1824259
+2015,Corn,Peru,1742869
+2015,Corn,Canada,1259724
+2015,Corn,Saudi Arabia,1150986
+2015,Corn,Egypt,967744
+2015,Corn,Guatemala,811608
+2015,Cotton,China,482648.8
+2015,Cotton,Vietnam,431765.7
+2015,Cotton,Turkey,302606.5
+2015,Cotton,Mexico,216364.4
+2015,Cotton,Indonesia,187637.8
+2015,Cotton,South Korea,149034.5
+2015,Cotton,Thailand,102666.3
+2015,Cotton,Taiwan,80016.1
+2015,Cotton,Pakistan,72842.8
+2015,Cotton,Peru,52526.2
+2016,Soybeans,China,35848522.5
+2016,Soybeans,European Union-28,4831128.3
+2016,Soybeans,Mexico,3639647
+2016,Soybeans,Indonesia,2574699.2
+2016,Soybeans,Japan,2360085.5
+2016,Soybeans,Taiwan,1518637.3
+2016,Soybeans,Thailand,908865.3
+2016,Soybeans,Vietnam,859956.9
+2016,Soybeans,Bangladesh,602408
+2016,Soybeans,South Korea,520363.5
+2016,Wheat (Unmilled),Mexico,2763704
+2016,Wheat (Unmilled),Japan,2721679
+2016,Wheat (Unmilled),Philippines,2613306
+2016,Wheat (Unmilled),Brazil,1254817
+2016,Wheat (Unmilled),Taiwan,1094375
+2016,Wheat (Unmilled),South Korea,1088612
+2016,Wheat (Unmilled),Nigeria,1073620
+2016,Wheat (Unmilled),Indonesia,961075
+2016,Wheat (Unmilled),China,900689
+2016,Wheat (Unmilled),Colombia,837779
+2016,Corn,Mexico,13922240
+2016,Corn,Japan,11941197
+2016,Corn,South Korea,4839045
+2016,Corn,Colombia,4527583
+2016,Corn,Peru,2690128
+2016,Corn,Taiwan,2672708
+2016,Corn,Saudi Arabia,1953149
+2016,Corn,Venezuela,1116316
+2016,Corn,Egypt,962188
+2016,Corn,Guatemala,954811
+2016,Cotton,Vietnam,536908.3
+2016,Cotton,Turkey,331768.2
+2016,Cotton,China,305891.3
+2016,Cotton,Indonesia,221682.8
+2016,Cotton,Mexico,216537.1
+2016,Cotton,Pakistan,129454.6
+2016,Cotton,India,112268.4
+2016,Cotton,South Korea,103897.9
+2016,Cotton,Thailand,99196.3
+2016,Cotton,Taiwan,83997
+2017,Soybeans,China,31732138.3
+2017,Soybeans,European Union-28,4333346
+2017,Soybeans,Mexico,3867702.6
+2017,Soybeans,Japan,2299177.5
+2017,Soybeans,Indonesia,2390648.8
+2017,Soybeans,Taiwan,1447091.9
+2017,Soybeans,Thailand,1193359
+2017,Soybeans,Pakistan,1138302
+2017,Soybeans,Bangladesh,1049387
+2017,Soybeans,Egypt,1010074
+2017,Wheat (Unmilled),Mexico,3698250
+2017,Wheat (Unmilled),Japan,3047584
+2017,Wheat (Unmilled),Philippines,2447963
+2017,Wheat (Unmilled),Nigeria,1638036
+2017,Wheat (Unmilled),South Korea,1554669
+2017,Wheat (Unmilled),China,1514399
+2017,Wheat (Unmilled),Indonesia,1492946
+2017,Wheat (Unmilled),Taiwan,1094747
+2017,Wheat (Unmilled),Algeria,840476
+2017,Wheat (Unmilled),Colombia,833326
+2017,Corn,Mexico,14713470
+2017,Corn,Japan,12378239
+2017,Corn,Colombia,4779449
+2017,Corn,South Korea,4000781
+2017,Corn,Peru,3216248
+2017,Corn,Taiwan,2256757
+2017,Corn,Saudi Arabia,1599150
+2017,Corn,Guatemala,859355
+2017,Corn,Canada,837589
+2017,Corn,Costa Rica,835332
+2017,Cotton,Vietnam,626547.6
+2017,Cotton,China,533333.2
+2017,Cotton,Turkey,410328.9
+2017,Cotton,Indonesia,285222.8
+2017,Cotton,Mexico,225252.1
+2017,Cotton,India,209928.6
+2017,Cotton,Pakistan,171752.1
+2017,Cotton,Bangladesh,152106.9
+2017,Cotton,South Korea,142858.8
+2017,Cotton,Thailand,117882
+2018,Soybeans,European Union-28,8740180.7
+2018,Soybeans,China,8335921
+2018,Soybeans,Mexico,4568307.3
+2018,Soybeans,Egypt,3186587
+2018,Soybeans,Indonesia,2636776.3
+2018,Soybeans,Japan,2344785.9
+2018,Soybeans,Taiwan,2193391.1
+2018,Soybeans,Argentina,2050739
+2018,Soybeans,Pakistan,1929838
+2018,Soybeans,Thailand,1599011.1
+2018,Wheat (Unmilled),Mexico,2810012
+2018,Wheat (Unmilled),Japan,2797403
+2018,Wheat (Unmilled),Philippines,2583359
+2018,Wheat (Unmilled),South Korea,1521306
+2018,Wheat (Unmilled),Taiwan,982154
+2018,Wheat (Unmilled),Iraq,882123
+2018,Wheat (Unmilled),Nigeria,816158
+2018,Wheat (Unmilled),European Union-28,801008
+2018,Wheat (Unmilled),Indonesia,778362
+2018,Wheat (Unmilled),Thailand,687802
+2018,Corn,Mexico,16723702
+2018,Corn,Japan,15254712
+2018,Corn,South Korea,7268377
+2018,Corn,Colombia,5509784
+2018,Corn,Taiwan,3212124
+2018,Corn,Peru,3074252
+2018,Corn,Canada,1971341
+2018,Corn,Vietnam,1908990
+2018,Corn,European Union-28,1884436
+2018,Corn,Egypt,1861572
+2018,Cotton,Vietnam,755839.8
+2018,Cotton,China,484785.3
+2018,Cotton,Turkey,390051
+2018,Cotton,Pakistan,345325.8
+2018,Cotton,Indonesia,338351.2
+2018,Cotton,Bangladesh,207764.3
+2018,Cotton,Mexico,191751.4
+2018,Cotton,India,153549.7
+2018,Cotton,Thailand,146332.2
+2018,Cotton,South Korea,119192.5
+2019,Soybeans,China,22575939.5
+2019,Soybeans,European Union-28,5642022.9
+2019,Soybeans,Mexico,5145403.9
+2019,Soybeans,Egypt,2789926
+2019,Soybeans,Japan,2451291.3
+2019,Soybeans,Indonesia,2420710.7
+2019,Soybeans,Taiwan,1845002.1
+2019,Soybeans,Thailand,1428287.4
+2019,Soybeans,Bangladesh,1136758
+2019,Soybeans,Pakistan,1130977
+2019,Wheat (Unmilled),Mexico,3547379
+2019,Wheat (Unmilled),Philippines,2925508
+2019,Wheat (Unmilled),Japan,2578881
+2019,Wheat (Unmilled),Nigeria,2112984
+2019,Wheat (Unmilled),South Korea,1265940
+2019,Wheat (Unmilled),Taiwan,1263598
+2019,Wheat (Unmilled),Indonesia,1232758
+2019,Wheat (Unmilled),European Union-28,831075
+2019,Wheat (Unmilled),Egypt,827885
+2019,Wheat (Unmilled),Yemen,739849
+2019,Corn,Mexico,14427080
+2019,Corn,Japan,10461561
+2019,Corn,Colombia,3911611
+2019,Corn,Canada,2104913
+2019,Corn,South Korea,1880096
+2019,Corn,Taiwan,1182447
+2019,Corn,Peru,1029891
+2019,Corn,Guatemala,1001003
+2019,Corn,Costa Rica,847215
+2019,Corn,Honduras,674390
+2019,Cotton,Vietnam,858354.8
+2019,Cotton,Turkey,392862.5
+2019,Cotton,China,375156.5
+2019,Cotton,Pakistan,368489
+2019,Cotton,India,337781.3
+2019,Cotton,Indonesia,243026.5
+2019,Cotton,Bangladesh,223661.5
+2019,Cotton,Mexico,159861.2
+2019,Cotton,Thailand,121889.8
+2019,Cotton,South Korea,95951.9
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
+2015,Soybeans,United Kingdom,1
+2015,Wheat (Unmilled),United Kingdom,1
+2016,Soybeans,United Kingdom,1
+2017,Soybeans,United Kingdom,1
+2018,Soybeans,United Kingdom,1
+2018,Wheat (Unmilled),United Kingdom,1
+2018,Corn,United Kingdom,1
+2019,Soybeans,United Kingdom,1
+2019,Wheat (Unmilled),United Kingdom,1
