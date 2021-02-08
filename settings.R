@@ -2,12 +2,12 @@
 # Tableau Settings & Functions #
 # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% #
 
-# Packages ----
+## Packages ----
 library(tidyverse)
 library(data.table)
 
 
-# Directories ----
+## Directories ----
 dir <- list()
 dir$project <- 'C:/Users/User/Documents/GitHub/Tableau/' 
 dir$scripts <- paste0(dir$project,'scripts/')

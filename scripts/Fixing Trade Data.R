@@ -2,23 +2,23 @@
 # Trade Data #
 # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% #
 
-# Load packages ----
+## Load packages ----
 source('settings.R')
 library(readxl)
 
-# Load dataset ----
+## Load dataset ----
 Trade_Data <- read_excel(paste0(dir$data,'Trade_Data.xls')
                          , sheet = "Sheet1")
 Trade_Data <- setDT(Trade_Data)
 
-# Explanation of Task ----
-# In Tableau to create a group for EU, I need each country of the
-# EU to be represented in my dataset. To do this, I added each 
-# country except for 1 and made each of their values 1. I them removed
-# 27 from the EU observations value so that I did not increase the 
-# overall value of trade for the EU.
+## Explanation of Task ----
+# In order to create a group for the EU in Tableau, each country of the
+# EU needed to be represented in the dataset. To fix this issue, each 
+# country except for 1 was added to the dataset and each of their values
+# were set to 1. 27 was then subtracted from each EU observation's values
+# so that the overall value of trade for the EU did not increase.
 
-# Data Transformation ----
+## Data Transformation ----
 # EU Countries excluding Germany (Germany will be tied to EU in Tableau)
 EU <- c("Austria", "Belgium", "Bulgaria", "Croatia", "Republic of Cyprus"
         , "Czech Republic", "Denmark", "Estonia", "Finland", "France"
@@ -51,8 +51,8 @@ Trade_Data <- Trade_Data[, Value := fifelse(
 final_data <- rbindlist(list(Trade_Data, EU.data)
                         , use.names=TRUE)
 
-# Write dataset ----
+## Write dataset ----
 fwrite(final_data, paste0(dir$data,'/Final_Trade_Data.csv')
        , row.names = FALSE)
 
-# END ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+## END ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

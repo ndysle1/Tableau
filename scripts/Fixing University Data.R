@@ -2,14 +2,14 @@
 # University Data #
 # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% #
 
-# Data Source ----
+## Data Source ----
 #Source: https://www.kaggle.com/theriley106/university-statisticslibrary(rjson) - 2018 USNEWS Rankings#
 
-# Load packages ----
+## Load packages ----
 source('settings.R')
 library(jsonlite)
 
-# Load dataset ----
+## Load dataset ----
 data <- fromJSON(paste0(dir$data,'schoolInfo.json'), flatten = TRUE)
 
 is.data.frame(data)
@@ -18,10 +18,10 @@ head(data)
 
 apply(is.na(data), 2, sum)
 
-# Write dataset ----
+## Write dataset ----
 fwrite(data, paste0(dir$data,'University_data.csv'), row.names=TRUE)
 
-# END ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+## END ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
